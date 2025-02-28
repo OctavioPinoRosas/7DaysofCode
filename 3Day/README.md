@@ -12,10 +12,17 @@ En este desafío, crearemos un juego interactivo donde el usuario tomará decisi
 3. Luego de elegir el área y tecnología, puede optar por especializarse aún más o convertirse en **Fullstack**.
 4. Finalmente, el juego le permite ingresar tantas tecnologías como quiera aprender.
 
+## 💻 Cómo usarlo
+1. Clona este repositorio o descarga los archivos.
+2. Abre el archivo index.html en tu navegador.
+3. Interactúa con el juego:
+El juego pedirá tus respuestas a través de botones o cuadros de texto. Responde a las preguntas y el juego seguirá el flujo de acuerdo con tus elecciones.
+4. Repite el proceso: Si deseas volver a jugar y hacer nuevas elecciones, simplemente recarga la página o reinicia el código.
+
 ## Lógica del Código
 
 - Utilizamos **estructuras condicionales** (`if`, `else if`, `else`) para manejar las decisiones del usuario.
-- Se emplearon **bucles** (`while`) para permitir al usuario agregar múltiples tecnologías que le gustaría aprender.
+- Se emplearon **bucles** (`while`) simulado para permitir al usuario agregar múltiples tecnologías que le gustaría aprender.
 - El flujo del juego depende de las respuestas del usuario, lo que permite una experiencia personalizada.
 
 ### Explicación del Código:
