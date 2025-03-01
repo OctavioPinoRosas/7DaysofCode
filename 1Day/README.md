@@ -1,4 +1,4 @@
-# Día 1 del #7DaysOfCode - Comparaciones de Tipos y Valores en JavaScript
+# Día 1 del #7DaysOfCode - Comparaciones de Tipos y Valores. Operaciones Booleanas en JavaScript
 ¡Bienvenido al primer desafío de **#7DaysOfCode**! 🎯
 
 ---
