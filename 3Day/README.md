@@ -1,4 +1,4 @@
-# Día 3: Juego Interactivo con Control de Flujo 🎮
+# Día 3: Estructura de control de flujo. Juego Interactivo con Control de Flujo en JavaScript. 🎮
 
 ¡Bienvenido al Día 3 del reto **#7DaysOfCode**! Hoy vamos a trabajar con **estructuras de control de flujo** en **JavaScript** para crear una historia interactiva en forma de un juego. El reto consiste en permitir que el usuario tome decisiones que alterarán el curso del juego, lo que nos ayudará a practicar condicionales y bucles.
 
