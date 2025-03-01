@@ -1,4 +1,4 @@
-# **Día 2 - #7DaysOfCode: Personalización de la experiencia con JavaScript**
+# **Día 2 - #7DaysOfCode: Almacenar valores en variables. Personalización de la experiencia con JavaScript**
 
 ## **Descripción**
 
