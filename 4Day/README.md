@@ -1,4 +1,4 @@
-# Día 4: Juego del Número Secreto 🔢🎮
+# Día 4: Bucles y randomización. Juego del Número Secreto en JavaScript.🔢🎮
 
 ¡Bienvenido al Día 4 del reto **#7DaysOfCode**! Hoy cree un divertido juego en **JavaScript** en el que el usuario debe adivinar un número secreto generado aleatoriamente por la computadora.
 
