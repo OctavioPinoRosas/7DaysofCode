@@ -12,9 +12,10 @@ Durante 7 días consecutivos, abordaré distintos problemas de programación que
 ## 📂 Contenido del Repositorio
 Cada día tendrá su propio directorio con el código de la solución y un archivo de donde se explica el funcionamiento:
 
-- 📜 **día-1/** - Comparaciones de tipos en JavaScript.
-- 📜 **día-2/** - Almacenar valores en JavaScript.
-- 📜 **día-3/** - Bucles en JavaScript.
+- 📜 **día-1/** - Comparaciones de tipos y valores. Operaciones Booleanas en JavaScript.
+- 📜 **día-2/** - Almacenar valores en variables. Personalización de la experiencia con JavaScript.
+- 📜 **día-3/** - Estructura de control de flujo. Juego Interactivo con Control de Flujo en JavaScript.
+- 📜 **día-4/** - Bucles y randomización. Juego del Número Secreto en JavaScript
 
 ---
 
