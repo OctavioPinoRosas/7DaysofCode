@@ -91,7 +91,7 @@ Esto funciona porque GitHub permite acceso vía **Subversion (`svn`)** a los rep
 
 ### 📥 **Opción 3: Descargar manualmente los archivos**
 Si solo necesitas algunos archivos dentro de `5Day`, puedes:
-1. Ir a [5Day en GitHub](https://github.com/OctavioPinoRosas/7DaysofCode/tree/94abfeac10e96388c154dc181cd60c01b4539578/4Day).
+1. Ir a [5Day en GitHub](https://github.com/OctavioPinoRosas/7DaysofCode/tree/a0b286b6a44969e83a5344e3b9c2967387bca445/5Day).
 2. Hacer clic en cada archivo individualmente y luego en el botón **"Download"**.
 
 ---
