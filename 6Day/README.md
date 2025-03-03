@@ -96,7 +96,7 @@ Esto funciona porque GitHub permite acceso vía **Subversion (`svn`)** a los rep
 
 ### 📥 **Opción 3: Descargar manualmente los archivos**
 Si solo necesitas algunos archivos dentro de `6Day`, puedes:
-1. Ir a [6Day en GitHub](https://github.com/OctavioPinoRosas/7DaysofCode/tree/e4fb03513025dde1abeaac325784e602cf6281e7/6Day).
+1. Ir a **6Day en GitHub**.
 2. Hacer clic en cada archivo individualmente y luego en el botón **"Download"**.
 
 ---
