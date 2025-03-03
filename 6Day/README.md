@@ -1,6 +1,6 @@
-# 🛒 Día 6: Remoción de arrays - Lista de Supermercado
+# Día 6: Remoción de arrays - Lista de Supermercado 🛒
 
-¡Bienvenido al Día 5 del desafío **#7DaysOfCode**! 🚀  
+¡Bienvenido al Día 6 del desafío **#7DaysOfCode**! 🚀  
 
 Hoy trabajé con **Arrays** en **JavaScript** para crear una lista de compras interactiva, permitiendo **agregar y eliminar** productos por categorías.  
 
