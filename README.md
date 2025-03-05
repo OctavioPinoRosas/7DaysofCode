@@ -37,7 +37,7 @@ Cada día tendrá su propio directorio con el código de la solución y un archi
 ---
 
 ## 📬 Contacto
-¿Quieres intercambiar ideas o discutir soluciones? Conéctate conmigo en: [LinkedIn](www.linkedin.com/in/octavio-pino-rosas)
+¿Quieres intercambiar ideas o discutir soluciones? Conéctate conmigo en: [LinkedIn](https://www.linkedin.com/in/octavio-pino-rosas)
 
 
 👨‍💻 ¡Seguimos aprendiendo y programando! 👨‍💻🚀
