@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>7Day/7DaysOfCode - Calculadora</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="container__contenido">
+            <div class="container__informaciones">
+                <div class="container__texto">
+                    <h1></h1>
+                    <p class="texto__parrafo"></p>
+                </div>
+                <div class="container__inputs">
+                    <input type="number" id="valor1" min="1" max="10" class="container__input">
+                    <h2 class="texto__parrafo__simbolo"></h2>
+                    <input type="number" id="valor2" min="1" max="10" class="container__input">
+                </div>
+                <p2 class="texto__parrafo"></p2>
+                <div class="chute container__botones">
+                    <button onclick="sumaF();" class="container__boton" id="suma">Suma</button>
+                    <button onclick="restaF();" class="container__boton" id="resta">Resta</button>
+                    <button onclick="multiplicacionF();" class="container__boton" id="multiplicacion">Multiplicación</button>
+                    <button onclick="divisionF();" class="container__boton" id="division">División</button>
+                </div>
+                <button onclick="resultadoF();" class="container__boton" id="resultado">Resultado</button>
+            </div>
+        </div>
+    </div>
+    <script src="app.js" defer></script>
+</body>
+
+</html>
