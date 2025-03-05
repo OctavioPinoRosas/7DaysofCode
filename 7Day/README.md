@@ -41,10 +41,10 @@ En este proyecto aprendí sobre la modularización del código en JavaScript y c
 
 ### 📸 Vista previa
 
-![Captura de la calculadora](Imagenes\Calculadora.PNG)
-![Captura de la calculadora](Imagenes\ValoresEnCalculadora.PNG)
-![Captura de la calculadora](Imagenes\Resultado.PNG)
-![Captura de la calculadora](Imagenes\Salir.PNG)
+![Captura de la calculadora](Imagenes/Calculadora.PNG)
+![Captura de la calculadora](Imagenes/ValoresEnCalculadora.PNG)
+![Captura de la calculadora](Imagenes/Resultado.PNG)
+![Captura de la calculadora](Imagenes/Salir.PNG)
 
 ## 📂 Cómo descargar solo la carpeta `7Day` que contiene el programa
 
