@@ -21,10 +21,10 @@ Cada día tendrá su propio directorio con el código de la solución y un archi
 - 📜 **día-1/** - Comparaciones de tipos y valores. Operaciones Booleanas en JavaScript.
 - 📜 **día-2/** - Almacenar valores en variables. Personalización de la experiencia con JavaScript.
 - 📜 **día-3/** - Estructura de control de flujo. Juego Interactivo con Control de Flujo en JavaScript.
-- 📜 **día-4/** - Bucles y randomización. Juego del Número Secreto en JavaScript
-- 📜 **Día 5/** - Arrays y colecciones - Lista de supermercado
-- 📜 **Día 6/** - Remoción de arrays - Lista de Supermercado
-- 📜 **Día 7/** - Funciones en javascript - Calculadora
+- 📜 **día-4/** - Bucles y randomización. Juego del Número Secreto en JavaScript.
+- 📜 **Día 5/** - Arrays y colecciones. Lista de supermercado en JavaScript.
+- 📜 **Día 6/** - Remoción de arrays. Lista de Supermercado en JavaScript.
+- 📜 **Día 7/** - Funciones en javascript. Calculadora en JavaScript.
 
 ---
 
